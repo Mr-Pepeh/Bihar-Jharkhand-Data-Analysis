@@ -65,7 +65,9 @@ Bihar-Jharkhand-Data-Analysis/
 ├── reports/
 ├── src/
 ├── employment gender gap analysis/
-├── main.py`
+├── main.py
+├── README.md
+└── .gitignore`
 
 ## Author
 
@@ -74,7 +76,6 @@ M.Sc. Data Science
 Nalanda University, Rajgir, Bihar, India
 
 This project was developed as part of my learning journey in data science, with a focus on comparative employment data analysis.
-
 
 
 ├── README.md
