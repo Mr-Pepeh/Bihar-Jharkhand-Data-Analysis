@@ -61,9 +61,9 @@ By comparing Bihar and Jharkhand, this project provides an opportunity to explor
 `text
 Bihar-Jharkhand-Data-Analysis/
 │
-├── data/
-├── reports/
-├── src/
+├── Data/
+├── Reports/
+├── Src/
 ├── employment gender gap analysis/
 ├── main.py
 ├── README.md
