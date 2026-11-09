@@ -1,0 +1,33 @@
+year,state,category,female,male,gap
+2022,Bihar,Casual labour,29.1,29.6,-0.5
+2022,Bihar,Helper in household enterprise,21.3,7.2,14.100000000000001
+2022,Bihar,Own-account worker / employer,40.1,53.4,-13.299999999999997
+2022,Bihar,Regular wage / salary,9.5,9.7,-0.1999999999999993
+2022,Jharkhand,Casual labour,8.0,26.5,-18.5
+2022,Jharkhand,Helper in household enterprise,64.3,12.4,51.9
+2022,Jharkhand,Own-account worker / employer,23.5,44.0,-20.5
+2022,Jharkhand,Regular wage / salary,4.3,17.1,-12.8
+2023,Bihar,Casual labour,15.9,27.1,-11.200000000000001
+2023,Bihar,Helper in household enterprise,41.1,9.9,31.200000000000003
+2023,Bihar,Own-account worker / employer,38.5,52.7,-14.200000000000003
+2023,Bihar,Regular wage / salary,4.6,10.3,-5.700000000000001
+2023,Jharkhand,Casual labour,6.0,24.5,-18.5
+2023,Jharkhand,Helper in household enterprise,58.5,12.6,45.9
+2023,Jharkhand,Own-account worker / employer,29.2,46.5,-17.3
+2023,Jharkhand,Regular wage / salary,6.3,16.4,-10.099999999999998
+2024,Bihar,Casual labour,12.1,30.9,-18.799999999999997
+2024,Bihar,Helper in household enterprise,46.1,9.3,36.8
+2024,Bihar,Own-account worker / employer,35.9,49.6,-13.700000000000003
+2024,Bihar,Regular wage / salary,5.9,10.3,-4.4
+2024,Jharkhand,Casual labour,6.8,27.4,-20.599999999999998
+2024,Jharkhand,Helper in household enterprise,55.5,11.8,43.7
+2024,Jharkhand,Own-account worker / employer,31.6,43.7,-12.100000000000001
+2024,Jharkhand,Regular wage / salary,6.0,17.1,-11.100000000000001
+2025,Bihar,Casual labour,11.0,27.7,-16.7
+2025,Bihar,Helper in household enterprise,32.8,10.0,22.799999999999997
+2025,Bihar,Own-account worker / employer,48.6,48.8,-0.19999999999999574
+2025,Bihar,Regular wage / salary,7.6,13.5,-5.9
+2025,Jharkhand,Casual labour,5.2,26.3,-21.1
+2025,Jharkhand,Helper in household enterprise,51.1,10.8,40.3
+2025,Jharkhand,Own-account worker / employer,37.9,44.4,-6.5
+2025,Jharkhand,Regular wage / salary,5.9,18.5,-12.6

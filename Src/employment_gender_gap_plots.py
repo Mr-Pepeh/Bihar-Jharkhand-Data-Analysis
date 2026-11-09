@@ -2,7 +2,7 @@
 Gender disparities in employment structure: research plotting script.
 
 Input:
-  Project 1 Occupation(2).xlsx
+  Project 1 Occupation.xlsx
 
 Run:
   python employment_gender_gap_plots.py
@@ -18,7 +18,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-INPUT_FILE = "Project 1 Occupation(2).xlsx"
+INPUT_FILE = Path(__file__).resolve().parent.parent / "data" / "Project 1 Occupation.xlsx"
 OUT = Path("employment_gender_gap_analysis")
 FIG = OUT / "figures"
 FIG.mkdir(parents=True, exist_ok=True)
