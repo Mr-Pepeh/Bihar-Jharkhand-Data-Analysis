@@ -77,6 +77,26 @@ Nalanda University, Rajgir, Bihar, India
 
 This project was developed as part of my learning journey in data science, with a focus on comparative employment data analysis.
 
+## Visual Insights
 
-├── README.md
-└── .gitignore
+The following visualisations highlight key findings from the comparative analysis of Bihar and Jharkhand.
+
+### 1. Occupational and Regional Analysis
+
+![Jharkhand](Reports/figures/Jharkhand.png)
+
+![Jharkhand Urban](Reports/figures/Jharkhand%20%E2%80%94%20Urban.png)
+
+![Jharkhand Comparison](Reports/figures/Jharkhand%20(1).png)
+
+### 2. Female Workforce Analysis
+
+![Female Workers](Reports/figures/Jharkhand%20%E2%80%94%20Female%20workers.png)
+
+![Female Workers 1](Reports/figures/Jharkhand%20%E2%80%94%20Female%20workers%20(1).png)
+
+### 3. Gender Gap Analysis
+
+![Gender Gaps by State and Sector](Reports/figures/Heatmap%20of%20gender%20gaps%20by%20state%20and%20sector%20(2025).png)
+
+![Bihar and Jharkhand Gender Gap Comparison](Reports/figures/Comparison%20of%20gender%20gaps_%20Bihar%20and%20Jharkhand%20(2025).png)
